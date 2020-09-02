@@ -1,4 +1,9 @@
 # 基于uniapp的商城界面
+<style>
+  img{
+    width:25%;
+  }
+</style>
 <div>
 <img src="https://github.com/DanceLynx/uniapp-shop/blob/master/example/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200902092616.png?raw=true" />
 <img src="https://github.com/DanceLynx/uniapp-shop/blob/master/example/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200902093035.png?raw=true" />
