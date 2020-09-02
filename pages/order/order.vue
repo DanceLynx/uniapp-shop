@@ -219,10 +219,11 @@
 				align-self: flex-end;
 				font-size: 26rpx;
 				color: #535353;
-				align-items: flex-end;
+				height: 32rpx;
 				margin-top: 63rpx;
 				font-weight: 400;
-				text:nth-of-type(3){
+				align-items: flex-start;
+				text{
 					font-size: 29rpx;
 				}
 			}
